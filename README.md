@@ -1,4 +1,6 @@
 # agenda
+
+![](https://travis-ci.org/ishoping/agenda.svg?branch=master)
  
 ## 小组成员
 ### 利建鑫（master）
